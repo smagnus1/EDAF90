@@ -1,0 +1,13 @@
+1   - Done
+2   - Done
+3   - Done
+4   - Done
+5   - Done
+6   - Done men osäker på om rätt; 
+      lade in "this.props.history.push('/compose-salad')" vid 
+      submit helt enkelt
+ 
+7   - Optional
+8   - Optional
+9   - Done
+10  - Optional
